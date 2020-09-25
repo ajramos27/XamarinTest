@@ -36,7 +36,7 @@ C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordAp
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
-C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
@@ -49,6 +49,8 @@ C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordAp
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Maps.dll
+C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Maps.iOS.dll
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\TravelRecordApp.dll
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\bin\iPhone\Debug\TravelRecordApp.pdb
@@ -61,7 +63,6 @@ C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordAp
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\optimized\
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\TravelRecordApp.iOS.csprojAssemblyReference.cache
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\TravelRecordApp.iOS.csproj.CoreCompileInputs.cache
-C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\XamlC.stamp
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\TravelRecordApp.iOS.csproj.CopyComplete
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\TravelRecordApp.iOS.exe
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp.iOS\obj\iPhone\Debug\TravelRecordApp.iOS.pdb
