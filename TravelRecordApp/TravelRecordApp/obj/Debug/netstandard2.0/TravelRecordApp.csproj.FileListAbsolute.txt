@@ -2,6 +2,7 @@ C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordAp
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\netstandard2.0\TravelRecordApp.dll
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\netstandard2.0\ref\TravelRecordApp.dll
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\bin\Debug\netstandard2.0\TravelRecordApp.pdb
+C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.csprojAssemblyReference.cache
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\HistoryPage.xaml.g.cs
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
@@ -12,9 +13,8 @@ C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordAp
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\ProfilePage.xaml.g.cs
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.AssemblyInfoInputs.cache
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.AssemblyInfo.cs
+C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.csproj.CoreCompileInputs.cache
+C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.dll
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\ref\TravelRecordApp.dll
 C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.pdb
-C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.csprojAssemblyReference.cache
-C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\TravelRecordApp.csproj.CoreCompileInputs.cache
-C:\Users\Aaron Jesus\source\repos\TravelRecordApp\TravelRecordApp\TravelRecordApp\obj\Debug\netstandard2.0\XamlC.stamp

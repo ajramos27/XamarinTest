@@ -1,9 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "T2A+UtnjVJ81XWaYzoOek0RJ4+2UujM4qtp4BDLefASMVtvdDgixf1Os0x2C2KzHwbHN+menn9+/UUS9XV8HNg==",
+  "dgSpecHash": "u9ubxagJvA/m9U2Ag8ZAs+e9BmxCNJDCIeWMkMImieBwu2dO+m8HTbvgKFw85iJJhkUR/3nzHrbQNCFelyhDrA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Aaron Jesus\\source\\repos\\TravelRecordApp\\TravelRecordApp\\TravelRecordApp.Android\\TravelRecordApp.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Aaron Jesus\\.nuget\\packages\\microsoft.bcl\\1.1.10\\microsoft.bcl.1.1.10.nupkg.sha512",
+    "C:\\Users\\Aaron Jesus\\.nuget\\packages\\microsoft.bcl.build\\1.0.14\\microsoft.bcl.build.1.0.14.nupkg.sha512",
+    "C:\\Users\\Aaron Jesus\\.nuget\\packages\\microsoft.net.http\\2.2.29\\microsoft.net.http.2.2.29.nupkg.sha512",
+    "C:\\Users\\Aaron Jesus\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\Aaron Jesus\\.nuget\\packages\\plugin.currentactivity\\2.1.0.2\\plugin.currentactivity.2.1.0.2.nupkg.sha512",
     "C:\\Users\\Aaron Jesus\\.nuget\\packages\\plugin.permissions\\3.0.0.12\\plugin.permissions.3.0.0.12.nupkg.sha512",
     "C:\\Users\\Aaron Jesus\\.nuget\\packages\\sqlite-net-pcl\\1.7.335\\sqlite-net-pcl.1.7.335.nupkg.sha512",
